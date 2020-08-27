@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/ribbon-service/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix-service/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
       </list>
     </option>
   </component>
